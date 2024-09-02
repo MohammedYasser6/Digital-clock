@@ -13,8 +13,8 @@ body{
     background-image:url(svg.svg) ;
     background-size: contain;
     background-repeat: no-repeat; 
-    background-position: center;
-    background-color: black;
+    background-position: center;    
+    background: linear-gradient(45deg ,#08001f,#30197d);
     
 }
 .main_body{
